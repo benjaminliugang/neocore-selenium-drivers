@@ -1,7 +1,7 @@
 
 module.exports = {
   baseURL: 'https://selenium-release.storage.googleapis.com',
-  version: '3.141.5',
+  version: '3.141.59',
   drivers: {
     chrome: {
       version: '76.0.3809.68',
